@@ -1,0 +1,5 @@
+{
+  "name": "BuildView Infotech Replica",
+  "description": "A high-performance, responsive replica of the BuildView Infotech website featuring service showcases, portfolio sections, and a functional contact form connected to a Make.com webhook.",
+  "requestFramePermissions": []
+}
